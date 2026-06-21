@@ -1,5 +1,5 @@
 FROM ubuntu:noble
-LABEL author="https://github.com/aBARICHELLO/godot-ci/graphs/contributors"
+LABEL author="https://github.com/Scalamando/godot-ci/graphs/contributors"
 
 USER root
 SHELL ["/bin/bash", "-c"]
